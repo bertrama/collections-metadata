@@ -1,0 +1,26 @@
+# This data is from http://quod.lib.umich.edu/lib/colllist
+---
+collid:      hart
+label:       History of Art Department, Visual Resources Collections
+collHomeURL: http://quod.lib.umich.edu/h/hart
+format:      Image Collections
+description: The Department of the History of Art's digital collection consists of images digitized from slides, books, journals, and prints as well as digital images licensed from vendors, original digital photography donated by faculty, and images provided by other University Visual Resources Collections (VRC). In addition to digital images, the HART VRC Images collection includes data records of the Eleanor S. Collins VRC Teaching Collections, namely the 35mm slide collection.
+sponsor:     Digital Library Production Service
+hlbtop:      Arts, General Information Sources, Humanities
+hlbsecond:   Architecture, Art History, Photographs and Pictorial Works, Classical Studies
+
+# This data is from Drupal
+---
+Title: UM History of Art Visual Resources Collections
+Other Titles: UM History of Art VRC
+URL: http://quod.lib.umich.edu/h/hart
+Access: subscription
+Brief Description: Includes over 70,000 digitized images selected from the UM History of Art's collection of over 750,000 slides & photographs.
+Description: <p>Includes over 70,000 digitized images selected from the UM History of Art's collection of over 750,000 slides, photographs, and reproductions of works of art from all periods and places.</p>
+Creator: University of Michigan, Digital Library Production Service (DLPS)
+Type: Images
+HLB: Arts
+HLB: Architecture
+HLB: Art History
+HLB: Classical Studies
+HLB: Photographs and Pictorial Works

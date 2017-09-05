@@ -1,0 +1,13 @@
+# This data is from http://quod.lib.umich.edu/lib/colllist
+---
+collid:      epv2
+label:       CIC Epublishing Venture 2
+collHomeURL: http://quod.lib.umich.edu/e/epv2
+format:      Text Collections
+description: This database contains a sampling (40 items) of scholarly e-books from the CIC University Presses. The EPV is a collaborative endeavor between the CIC Presses and University Libraries to explore opportunities for the creation, dissemination, and archiving of electronic texts produced by the CIC universities.
+sponsor:     MPublishing
+hlbtop:      Social Sciences
+hlbsecond:   Library Science
+
+# This data is from Drupal
+---

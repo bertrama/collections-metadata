@@ -1,0 +1,22 @@
+# This data is from http://quod.lib.umich.edu/lib/colllist
+---
+collid:      hist265painting
+label:       UM History 265 Paintings
+collHomeURL: http://quod.lib.umich.edu/h/hist265painting
+format:      Image Collections
+description: This collection of over sixty images of historic paintings from the University of Michigan campus was created by Rafal Farjo and fellow students in the UM History 265 course, spring term 2001. The course was taught by Professors N.H. Steneck and M.L. Steneck.
+sponsor:     Digital Library Production Service
+hlbtop:      Arts, Humanities
+hlbsecond:   Art History, United States History
+
+# This data is from Drupal
+---
+Title: UM History 265 Paintings
+URL: http://quod.lib.umich.edu/h/hist265painting
+Access: free
+Brief Description: This is a collection of images of historic paintings from the University of Michigan campus.
+Description: <p>This collection of images of historic paintings from the University of Michigan campus was created by Rafal Farjo and fellow students in the UM History 265 course, spring term 2001. The course was taught by Professors N.H. Steneck and M.L. Steneck. The collection is hosted online by the UM Digital Library Production Service.</p>
+Creator: University of Michigan, Digital Library Production Service (DLPS)
+Type: Images
+HLB: Art History
+HLB: United States History

@@ -1,0 +1,13 @@
+# This data is from http://quod.lib.umich.edu/lib/colllist
+---
+collid:      ohp
+label:       Open Humanities Press
+collHomeURL: http://openhumanitiespress.org/
+format:      Text Collections
+description: The Open Humanities Press (OHP) is a grassroots response to the crisis in scholarly publishing in the humanities. OHP is an international open access publishing collective whose mission is to make leading works of contemporary critical thought freely available worldwide.
+sponsor:     MPublishing
+hlbtop:      General Information Sources, Humanities
+hlbsecond:   Journals and Magazines, Humanities (General)
+
+# This data is from Drupal
+---

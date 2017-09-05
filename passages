@@ -1,0 +1,13 @@
+# This data is from http://quod.lib.umich.edu/lib/colllist
+---
+collid:      passages
+label:       passages
+collHomeURL: http://quod.lib.umich.edu/p/passages
+format:      Text Collections
+description: Volumes 2004-2005. Open to the world.|This series, published 2004-2005, is a successor to Passages: A Chronicle of the African Humanities, which was published in 1991-1994.  Both series include resource provides access to readings, interpretations, reviews, essays, debates, reports, news articles, transcripts, and links as well as suggestions and criticism dedicated to African humanities.
+sponsor:     MPublishing
+hlbtop:      International Studies
+hlbsecond:   African Studies
+
+# This data is from Drupal
+---

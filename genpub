@@ -1,0 +1,21 @@
+# This data is from http://quod.lib.umich.edu/lib/colllist
+---
+collid:      genpub
+label:       Digital General Collection
+collHomeURL: http://quod.lib.umich.edu/g/genpub
+format:      Text Collections
+description: This collection contains over 30,000 books that were scanned for preservation purposes from the University of Michigan Library collections, on all topics.
+sponsor:     Digital Library Production Service
+hlbtop:      General Information Sources
+hlbsecond:   Books
+
+# This data is from Drupal
+---
+Title: Digital General Collection
+URL: http://quod.lib.umich.edu/g/genpub/
+Access: free
+Brief Description: Over 20,000 books on all topics from the University of Michigan Library collections, scanned for preservation purposes.
+Description: <p>Over 20,000 books on all topics from the University of Michigan Library collections, scanned for preservation purposes.</p>
+Creator: University of Michigan, Digital Library Production Service (DLPS)
+Type: Text Collection
+HLB: Books

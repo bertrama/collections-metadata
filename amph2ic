@@ -1,0 +1,24 @@
+# This data is from http://quod.lib.umich.edu/lib/colllist
+---
+collid:      amph2ic
+label:       University of Michigan Museum of Zoology, Amphibian and Reptile Audio Files
+collHomeURL: http://quod.lib.umich.edu/a/amph2ic
+format:      Image Collections
+description: The Division of Reptiles and Amphibians maintains a collection that is worldwide in scope. Presently, the research collections contain 197,469 (through catalogue number UMMZ 242,000) catalogued lots representing 433,505 individual specimens. These represent 1,067 genera and 5,323 species of which 13,818 specimens are skeletons. 99.9% of specimens are identified to genus, and 96% of specimens are identified to species. This includes 472 Primary Type specimens (representing 424 taxa) and 5,515 Paratypes (representing 804 taxa). The average growth over the last ten years has been nearly 1500 specimens per year. The auxiliary research collections contain 2,145 radiographs, 7,288 kodachrome slides, and 10,789 frozen tissue samples. All of the above mentioned collections have been inventoried and the data associated with them have been entered into computer databases in Filemaker Pro. A collection of 37 audio tapes containing hundreds of recordings of anuran vocalizations has been digitized and can now be accessed via the Division's webpage, as well as catalogue records and digital images of all primary type specimens.
+sponsor:     Digital Library Production Service
+hlbtop:      Science
+hlbsecond:   Ecology and Evolutionary Biology, Zoology
+
+# This data is from Drupal
+---
+Title: University of Michigan Museum of Zoology, Amphibian and Reptile Audio Files
+Other Titles: Amphibian and Reptile Audio Files
+URL: http://quod.lib.umich.edu/a/amph2ic
+Access: free
+Brief Description: Contains over 100 digital audio files in the research collection of the University of Michigan, Museum of Zoology.
+Description: <p>The research collection of the University of Michigan, Museum of Zoology, Division of Reptiles and Amphibians is worldwide in scope and as of the annual report 2006-07 contains 238,000 catalogued lots representing 428,517 individual specimens (1,064 genera and 5,266 species) of which 13,516 are skeletons. This includes 470 Primary Type specimens (representing 422 taxa) and 5,450 Paratypes (representing 783 taxa). The growth over the last ten years has been nearly 2000 - 4000 specimens per year. The auxiliary research collections contain 2,145 radiographs, 7,303 kodachrome slides, 6,115 frozen tissue samples, 129 digital audio files, and 469 digital images (representing 193 primary types).</p>
+<p>This is part of the Flora and Fauna of the Great Lakes Region: A Multimedia Digital Collection.</p>
+Creator: University of Michigan, Digital Library Production Service (DLPS)
+Type: Audio
+HLB: Ecology and Evolutionary Biology
+HLB: Zoology

@@ -1,0 +1,24 @@
+# This data is from http://quod.lib.umich.edu/lib/colllist
+---
+collid:      archivision2ic
+label:       Archivision Architecture Images
+collHomeURL: http://quod.lib.umich.edu/a/archivision2ic
+format:      Image Collections
+description: The Archivision Architectural Image Collection, a growing collection of approximately 84,000 high resolution images with approximately 6,000 additional images each year, encompasses a variety of examples of the built environment including images of architecture, gardens and parks, public spaces, and cities from North America, Europe, and Asia. The collection is created and curated by Scott Gilchrist, photographer and architect. The University Library licenses the images for academic use from Archivision Inc.
+sponsor:     Digital Library Production Service
+hlbtop:      Arts, General Information Sources
+hlbsecond:   Architecture, Landscape Architecture, Photographs and Pictorial Works
+
+# This data is from Drupal
+---
+Title: Archivision Architecture Images
+Other Titles: Archivision Architectural Images
+URL: http://quod.lib.umich.edu/a/archivision2ic
+Access: subscription
+Brief Description: A growing collection of approximately 84,000 high resolution images with approximately 6,000 additional images each year.
+Description: <p>The Archivision Architectural Image Collection, a growing collection of approximately 84,000 high resolution images with approximately 6,000 additional images each year, encompasses a variety of examples of the built environment including images of architecture, gardens and parks, public spaces, and cities from North America, Europe, and Asia. The collection is created and curated by Scott Gilchrist, photographer and architect. The University Library licenses the images for academic use from&nbsp;Archivision Inc.</p>
+
+Type: Images
+HLB: Architecture
+HLB: Landscape Architecture
+HLB: Photographs and Pictorial Works

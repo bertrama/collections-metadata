@@ -1,0 +1,28 @@
+# This data is from http://quod.lib.umich.edu/lib/colllist
+---
+collid:      eebo
+label:       Early English Books Online
+collHomeURL: http://quod.lib.umich.edu/e/eebo
+format:      Text Collections
+description: EEBO is phase 1 of the Text Creation Partnership (TCP). Its aim was to convert 25,000 unique monographs in the EEBO collection. When complete, EEBO will contain page images in all subject areas published in Great Britain or in the English language between 1475 and 1700, and represented in the English Short Title Catalog and Thomason Tracts. It includes the searchable full text of titles chosen from the New Cambridge Bibliography of English Literature.
+sponsor:     Digital Library Production Service
+hlbtop:      General Information Sources, Humanities, International Studies
+hlbsecond:   Books, English Language and Literature, British and Irish Studies
+
+# This data is from Drupal
+---
+Title: Early English Books Online - Text Creation Partnership (EEBO-TCP)
+Other Titles: EEBO-TCP
+Other Titles: EEBO
+URL: http://quod.lib.umich.edu/e/eebogroup/
+Access: subscription
+Brief Description: The Early English Books Online corpus consists of the works represented in the English Short Title Catalog I and II.
+Description: <p>The Early English Books Online Text Creation Partnership began in 1999 as an innovative cooperative relationship between ProQuest, the University libraries of Michigan and Oxford, and the Council on Library and Information Resources (CLIR) to convert 25,000 books from ProQuest&rsquo;s EEBO image product into fully-searchable, TEI-compliant SGML/XML texts.</p>
+<p>In subsequent years, the EEBO-TCP has added 149 more individual partner institutions. Together, this partnership has funded the text conversion process (whereby digital page images are double-keyed by vendors, marked-up and reviewed by production staff at Michigan and Oxford, and then delivered to the web in their new form).</p>
+<p>In March of 2008, the TCP announced its intention to initiate a second phase of EEBO-TCP production, with the aim of converting the remaining 44,000 unique monographs in the EEBO collection. To date, more than 60 individual institutions have joined this second partnership and production is underway.</p>
+<p>The EEBO corpus consists of the works represented in the English Short Title Catalog I and II (based on the Pollard &amp; Redgrave and Wing short title catalogs), as well as the Thomason Tracts. Together these trace the history of English thought from the first book printed in English in 1475 through 1700. The content covers literature, philosophy, politics, religion, geography, science and all other areas of human endeavor. The assembled collection of 125,000 volumes is a mainstay for understanding the development of Western culture in general and the Anglo-American world in particular. The STC collections have always found strong proponents in English, linguistics, and history but the collections are all encompassing in coverage, including core texts in religious studies, art, women's studies, history of science, law, and music.</p>
+Creator: Text Creation Partnership (TCP)
+Type: Text Collection
+HLB: Books
+HLB: English Language and Literature
+HLB: British and Irish Studies

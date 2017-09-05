@@ -1,0 +1,21 @@
+# This data is from http://quod.lib.umich.edu/lib/colllist
+---
+collid:      shakespeare
+label:       Riverside Shakespeare
+collHomeURL: http://quod.lib.umich.edu/s/shakespeare/
+format:      Text Collections
+description: This collection contains the full text of the complete works of Shakespeare as presented in the standard scholarly edition edited by G. Blakemore Evans. It does not include the introductory essays, footnotes and critical apparatus of the print edition.
+sponsor:     Digital Library Production Service
+hlbtop:      Arts, Humanities
+hlbsecond:   Theatre and Drama, English Language and Literature
+
+# This data is from Drupal
+---
+Title: Riverside Shakespeare
+URL: http://quod.lib.umich.edu/s/shakespeare/
+Access: subscription
+Brief Description: The full text of the complete works of Shakespeare as presented in the standard scholarly edition edited by G. Blakemore Evans.
+Description: <p>This collection contains the full text of the complete works of Shakespeare as presented in the standard scholarly edition edited by G. Blakemore Evans. It does not include the introductory essays, footnotes and critical apparatus of the print edition.</p>
+Type: Text Collection
+HLB: Theatre and Drama
+HLB: English Language and Literature

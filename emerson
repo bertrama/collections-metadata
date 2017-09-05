@@ -1,0 +1,23 @@
+# This data is from http://quod.lib.umich.edu/lib/colllist
+---
+collid:      emerson
+label:       The Complete Works of Ralph Waldo Emerson
+collHomeURL: http://quod.lib.umich.edu/e/emerson
+format:      Text Collections
+description: This is a digital edition of the "Complete Works of Ralph Waldo Emerson," Centenary Edition, edited and with notes by Edward Waldo Emerson.
+sponsor:     Digital Library Production Service
+hlbtop:      Humanities
+hlbsecond:   English Language and Literature, General and Comparative Literature
+
+# This data is from Drupal
+---
+Title: Complete Works of Ralph Waldo Emerson
+Other Titles: The Complete Works of Ralph Waldo Emerson
+URL: http://quod.lib.umich.edu/e/emerson/
+Access: free
+Brief Description: A digital edition of the Complete Works of Ralph Waldo Emerson, Centenary Edition, edited and with notes by Edward Waldo Emerson.
+Description: <p>A digital edition of the Complete Works of Ralph Waldo Emerson, Centenary Edition, edited and with notes by Edward Waldo Emerson.</p>
+Creator: University of Michigan, Digital Library Production Service (DLPS)
+Type: Text Collection
+HLB: English Language and Literature
+HLB: General and Comparative Literature

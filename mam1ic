@@ -1,0 +1,25 @@
+# This data is from http://quod.lib.umich.edu/lib/colllist
+---
+collid:      mam1ic
+label:       University of Michigan Museum of Zoology, Mammal Division Collection Database with Specimen Images
+collHomeURL: http://quod.lib.umich.edu/m/mam1ic
+format:      Image Collections
+description: This collection contains catalog records exported from the University of Michigan, Museum of Zoology, Mammal Division's specimen collection, and selected specimen images. The database currently contains more than 22,000 records, with collection dates ranging from the 1830s to the present. The records include such information as scientific name, common name, collector and collection date, locality, and preparation type.
+sponsor:     Digital Library Production Service
+hlbtop:      Science
+hlbsecond:   Ecology and Evolutionary Biology, Zoology
+
+# This data is from Drupal
+---
+Title: University of Michigan Museum of Zoology, Mammal Division Collection Database with Specimen Images
+Other Titles: Mammal Division Collection Database with Specimen Images
+URL: http://quod.lib.umich.edu/m/mam1ic
+Access: free
+Brief Description: This collection from the UM Museum of Zoology Mammal Division contains catalog records exported from the specimen collection & some images.
+Description: <p>This collection from the University of Michigan Museum of Zoology Mammal Division contains catalog records exported from the specimen collection, and selected specimen images. The database currently contains more than 22,000 records, with collection dates ranging from the 1830s to the present. The records include such information as scientific name, common name, collector and collection date, locality, and preparation type.</p>
+<p>Note: some records contain more complete information than others.</p>
+<p>This is part of the Flora and Fauna of the Great Lakes Region: A Multimedia Digital Collection.</p>
+Creator: University of Michigan, Digital Library Production Service (DLPS)
+Type: Images
+HLB: Ecology and Evolutionary Biology
+HLB: Zoology

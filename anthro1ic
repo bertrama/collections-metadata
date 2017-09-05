@@ -1,0 +1,23 @@
+# This data is from http://quod.lib.umich.edu/lib/colllist
+---
+collid:      anthro1ic
+label:       UM Museum of Anthropological Archaeology
+collHomeURL: http://quod.lib.umich.edu/a/anthro1ic
+format:      Image Collections
+description: This database includes over 29,000 photographs from original excavations, personal collecting, reference books and magazines, as well as images of artifacts within the University of Michigan Museum of Anthropology's collections.
+sponsor:     Digital Library Production Service
+hlbtop:      General Information Sources, Social Sciences
+hlbsecond:   Photographs and Pictorial Works, Anthropology
+
+# This data is from Drupal
+---
+Title: UM Museum of Anthropology Image Database
+Other Titles: University of Michigan Museum of Anthropology Image Database
+URL: http://quod.lib.umich.edu/a/anthro1ic
+Access: free
+Brief Description: Includes photographs from original excavations, personal collecting, reference books and magazines, as well as images of artifacts.
+Description: <p>The University of Michigan Museum of Anthropology Image Database was made possible through support provided by the University of Michigan's College of Literature, Science and the Art Information Technology Committee and the National Endowment of the Humanities. The Image Database includes photographs from original excavations, personal collecting, reference books and magazines, as well as images of artifacts within the Museum's collections.</p>
+Creator: University of Michigan, Digital Library Production Service (DLPS)
+Type: Images
+HLB: Anthropology
+HLB: Photographs and Pictorial Works

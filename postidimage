@@ -1,0 +1,13 @@
+# This data is from http://quod.lib.umich.edu/lib/colllist
+---
+collid:      postidimage
+label:       Post Identity Images
+collHomeURL: http://quod.lib.umich.edu/p/postidimage
+format:      Image Collections
+description: Post Identity is an international, fully-refereed journal of the humanities. It features text-based and multi-media scholarship that problematizes the narratives underlying individual, social, and cultural identity formations; that investigates the relationship between identity formations and texts; and that argues how such formations can be challenged.  This site provides access to images from Post Identity.
+sponsor:     MPublishing
+hlbtop:      General Information Sources, Humanities, Social Sciences
+hlbsecond:   Journals and Magazines, Photographs and Pictorial Works, General and Comparative Literature, Sociology
+
+# This data is from Drupal
+---
