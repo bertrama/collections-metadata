@@ -1,0 +1,21 @@
+Questions
+---------
+
+1. Are there any records that shouldn't be created?
+
+    * How can I figure out which those are?
+
+2. If a title is changed, should I put the old title in "other titles"
+   (I'm currently doing that).
+
+3. If there's an existing brief description, should I trust that as better
+   than the possibly truncated 1st sentence?
+
+   Consider Digital General Collection (genpub) as an example why I shouldn't.
+   Lots of examples of why I should.
+
+4. If there's an ST type listed that isn't Text Collection, Images, or Catalog,
+   should I retain it?
+
+   For example: Amphibian and Reptile Audio Files (amph2ic),
+   Abraham Lincon Association Serials (alajournals)

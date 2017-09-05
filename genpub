@@ -12,10 +12,10 @@ hlbsecond:   Books
 # This data is from Drupal
 ---
 Title: Digital General Collection
-URL: http://quod.lib.umich.edu/g/genpub/
+URL: http://quod.lib.umich.edu/g/genpub
 Access: free
 Brief Description: Over 20,000 books on all topics from the University of Michigan Library collections, scanned for preservation purposes.
-Description: <p>Over 20,000 books on all topics from the University of Michigan Library collections, scanned for preservation purposes.</p>
-Creator: University of Michigan, Digital Library Production Service (DLPS)
+Description: <p>This collection contains over 30,000 books that were scanned for preservation purposes from the University of Michigan Library collections, on all topics.</p>
+Creator: University of Michigan, Digital Library Platform & Services
 Type: Text Collection
 HLB: Books

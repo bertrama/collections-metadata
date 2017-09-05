@@ -11,6 +11,11 @@ hlbsecond:   Books, English Language and Literature, British and Irish Studies
 
 # This data is from Drupal
 ---
+#
+# This collection is represented in Search Tools as a group page.
+# The title/description/terms won't be updated as they apply to more than one collection.
+# url: http://quod.lib.umich.edu/e/eebogroup/
+#
 Title: Early English Books Online - Text Creation Partnership (EEBO-TCP)
 Other Titles: EEBO-TCP
 Other Titles: EEBO
